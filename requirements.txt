@@ -1,6 +1,6 @@
 streamlit
 nltk
-gensim
+gensim == 3.8.0
 scikit-learn
 matplotlib
 numpy
